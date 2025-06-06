@@ -10,7 +10,7 @@ import java.util.Date;
 public class ModifyFileTimes {
     public static void main(String[] args) {
         // 替换为你的文件路径
-        Path filePath = Paths.get("D:\\xuqiu\\bishe\\houduan演示 - 副本√√ - 副本\\src\\main\\java\\com\\example\\houduan\\service\\impl\\StudyRecordServiceImpl.java");
+        Path filePath = Paths.get("D:\\文件路径");
 
         try {
             // 时间格式化工具类
